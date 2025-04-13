@@ -1,1 +1,1 @@
-<code style="color: green">Class</code>
+$${\color{green}Class}$$
